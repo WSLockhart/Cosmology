@@ -42,11 +42,4 @@ for n = 1:particleNum
 
 end
 
-
-
-
-
-
-
-
-
+Rho = Rho/Rho_0;
